@@ -3,4 +3,4 @@ def parrot(repeating = "Squawk!")
   return repeating 
 end
 
-parrot("I want a cracker")
+parrot
